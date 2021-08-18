@@ -13,7 +13,7 @@ It is also known under the name "look and say".
 ### Technologie
 My algorithme is write in Php.
 ***
-# Use
+### Use
 ```bash
 php suite_conway.php 1 11
 ```
