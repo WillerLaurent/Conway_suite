@@ -17,5 +17,5 @@ My algorithme is write in Php.
 ```bash
 php suite_conway.php 1 11
 ```
-The first argument is the start number
-The second argument is the range's number
+>The first argument is the start number
+>The second argument is the range's number
